@@ -1,0 +1,4 @@
+dbus-python==1.2.16
+PyGObject==3.34.0
+pyserial==3.4
+python-dotenv==0.11.0
