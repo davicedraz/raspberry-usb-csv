@@ -11,6 +11,8 @@
 
 This program creates an execution routine that basically works by: when connecting a USB drive to the device's USB port, the user will only needs to wait for an automatic copy of all the data collected by the device in .csv format. In order to have access to the data quickly when he has physical access to the machine and that it is not necessary to have access to the internet.
 
+The script `save.sh` performs this backup once, exactly at the moment you execute it, as an example of the continuous operation of the software.
+
 ## Setup
 
 Create a .env file and set the enviroment variables needed, for example:
